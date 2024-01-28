@@ -1,7 +1,7 @@
 ![MasterHead](./github-header-image%20(3).png)
 <h1 align="center">Hi 👋, I'm Darshan Patel</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
-[<img align="right" alt="Coding" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif)
+<img align="right" alt="Coding" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
